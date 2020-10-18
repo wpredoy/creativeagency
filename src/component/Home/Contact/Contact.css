@@ -1,0 +1,30 @@
+.FooterStyle {
+    background-color: #FBD062;
+    height: 600px;
+}
+.contactFooter {
+    color: "2D2D2D";
+    font-size: 34px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 45px;
+}
+.contactFooterText {
+    color: #000000;
+    font-size: 14px;
+}
+.formStyle {
+    padding-top: 50px;
+}
+.CopyrightStyle p {
+    color: #000000;
+    text-align: center;
+    padding-right: 20px;
+    padding-top: 60px;
+    font-size: 14px;
+}
+@media screen and (max-width:800px) {
+    .FooterStyle {
+        height: 800px;
+    }
+}

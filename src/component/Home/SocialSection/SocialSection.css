@@ -1,0 +1,21 @@
+.navbar-light .navbar-nav img {
+    margin-right: 100px;
+    height: 40px;
+}
+.socialStyle {
+    padding-bottom: 200px;
+    padding-top: 50px;
+    background-color: #E5E5E5;
+}
+@media screen and (max-width:800px) {
+    .navbar-light .navbar-nav img {
+        height: 30px;
+        margin-right: 80px;
+    }
+}
+@media screen and (max-width:700px) {
+    .navbar-light .navbar-nav img {
+        height: 20px;
+        margin-right: 70px;
+    }
+}
