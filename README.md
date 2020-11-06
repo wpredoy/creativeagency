@@ -1,4 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Website Link](https://github.com/facebook/create-react-app).
+ 
+ ## Feature:- 
+ 
+* People can select and order a service.
+* People can see select order details.
+* This person will be able to give reviews and this review will show on the website.
+* The admin will see all the orders.
+* Admin will add a service
+* Admin also adds other Admin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
