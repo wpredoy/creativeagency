@@ -9,7 +9,7 @@
 * Admin will add a service
 * Admin also adds other Admin.
 
-
+![website](https://user-images.githubusercontent.com/67519635/98369070-92666500-2062-11eb-9740-1cfd94570154.PNG)
 
 
 
